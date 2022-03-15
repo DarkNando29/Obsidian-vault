@@ -1,3 +1,3 @@
--[] Crear una aplicacion web con 3.0 
--[] Entender todo acerca del blockchain
--[] Encontrar con que lenguaje usar solidity para hacer aplicaciones 		  con smart Contract
+- [ ] Crear una aplicacion web con 3.0 
+- [ ] Entender todo acerca del blockchain
+- [ ] Encontrar con que lenguaje usar solidity para hacer aplicaciones con smart Contract
