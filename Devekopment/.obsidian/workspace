@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Crypto/Bases/Block.md",
+            "file": "Crypto/Task.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crypto/Bases/Block.md",
+                "file": "Crypto/Task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "80a460ed05208798",
   "lastOpenFiles": [
+    "Crypto/Task.md",
     "Crypto/Bases/Block.md",
     "Crypto/BlockChain Developer/BlockchainsTipos.md",
     "Crypto/Bases/Blockchain.md",
@@ -96,7 +97,6 @@
     "Crypto/Bases/Propiedades/Inmutabilidad.md",
     "Crypto/Bases/Trading.md",
     "Crypto/Web3/Bases.md",
-    "Java/Installation.md",
-    "Crypto/Smart Contract/Basic Knowledge.md"
+    "Java/Installation.md"
   ]
 }

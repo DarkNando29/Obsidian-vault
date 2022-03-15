@@ -15,3 +15,8 @@
 		Contador usado para el algoritmo de proof-of-work.
 		
 ### Identificadores:
+	-El block hash se calcula al pasar 2 veces el encabezado atraves del algoritmo SHA256.
+	
+	-El block hash identifica un bloque de manera unica.
+	
+	-Block height es la posicion del bloque dentro de la cadena.
