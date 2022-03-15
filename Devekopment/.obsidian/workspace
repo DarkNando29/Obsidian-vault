@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "80a460ed05208798",
+        "id": "a0ef283f912058a6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Crypto/Task.md",
+            "file": "Crypto/Bases/Block.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crypto/Task.md",
+                "file": "Crypto/Bases/Block.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "80a460ed05208798",
+  "active": "a0ef283f912058a6",
   "lastOpenFiles": [
-    "Crypto/Task.md",
     "Crypto/Bases/Block.md",
+    "Pasted image 20220315151707.png",
+    "Crypto/Bases/Servidor de marcas de tiempo.md",
+    "Crypto/Bases/Trading.md",
+    "Crypto/Bases/Propiedades/Inmutabilidad.md",
+    "Crypto/Bases/Propiedades/Herramienta.md",
+    "Crypto/Task.md",
     "Crypto/BlockChain Developer/BlockchainsTipos.md",
     "Crypto/Bases/Blockchain.md",
-    "Crypto/Bases/Servidor de marcas de tiempo.md",
-    "Crypto/Bases/Propiedades/Herramienta.md",
-    "Crypto/Bases/Propiedades/Inmutabilidad.md",
-    "Crypto/Bases/Trading.md",
-    "Crypto/Web3/Bases.md",
-    "Java/Installation.md"
+    "Crypto/Web3/Bases.md"
   ]
 }
