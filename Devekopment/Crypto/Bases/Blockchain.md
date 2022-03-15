@@ -15,4 +15,7 @@ Cualquier movimiento en la red es publico, pero no importa la informacion, ya qu
 
 Mineros, cada una de las transacciones es manejada por los mineros ya que funcionan como parte de la descentralizacion.
 
+P2P Network
+Todos los miembros se pueden comunicar sin ningun tercero
 
+El consenso descentralizado de la red es manejado por los mineros.

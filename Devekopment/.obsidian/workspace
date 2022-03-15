@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Crypto/Bases/Trading.md",
+            "file": "Crypto/Bases/Block.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crypto/Bases/Trading.md",
+                "file": "Crypto/Bases/Block.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,14 +88,15 @@
   },
   "active": "80a460ed05208798",
   "lastOpenFiles": [
-    "Crypto/Bases/Trading.md",
+    "Crypto/Bases/Block.md",
+    "Crypto/BlockChain Developer/BlockchainsTipos.md",
     "Crypto/Bases/Blockchain.md",
+    "Crypto/Bases/Servidor de marcas de tiempo.md",
+    "Crypto/Bases/Propiedades/Herramienta.md",
+    "Crypto/Bases/Propiedades/Inmutabilidad.md",
+    "Crypto/Bases/Trading.md",
     "Crypto/Web3/Bases.md",
     "Java/Installation.md",
-    "Crypto/Smart Contract/Basic Knowledge.md",
-    "Untitled.md",
-    "Horas MCMCG.md",
-    "Java/Configuration.md",
-    "Java.md"
+    "Crypto/Smart Contract/Basic Knowledge.md"
   ]
 }
