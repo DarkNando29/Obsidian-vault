@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Crypto/Bases/Block.md",
-            "mode": "source"
+            "file": "Crypto/Bases/Mining/Contexto.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crypto/Bases/Block.md",
+                "file": "Crypto/Bases/Mining/Contexto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "a0ef283f912058a6",
   "lastOpenFiles": [
+    "Crypto/Bases/Mining/Contexto.md",
     "Crypto/Bases/Block.md",
     "Pasted image 20220315151707.png",
     "Crypto/Bases/Servidor de marcas de tiempo.md",
@@ -96,7 +97,6 @@
     "Crypto/Bases/Propiedades/Herramienta.md",
     "Crypto/Task.md",
     "Crypto/BlockChain Developer/BlockchainsTipos.md",
-    "Crypto/Bases/Blockchain.md",
-    "Crypto/Web3/Bases.md"
+    "Crypto/Bases/Blockchain.md"
   ]
 }
