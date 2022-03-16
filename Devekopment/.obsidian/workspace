@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Crypto/Bases/Mining/Contexto.md",
+            "file": "Time sheets/16-03-2022.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crypto/Bases/Mining/Contexto.md",
+                "file": "Time sheets/16-03-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "a0ef283f912058a6",
   "lastOpenFiles": [
+    "Time sheets/16-03-2022.md",
     "Crypto/Bases/Mining/Contexto.md",
     "Crypto/Bases/Block.md",
     "Pasted image 20220315151707.png",
@@ -96,7 +97,6 @@
     "Crypto/Bases/Propiedades/Inmutabilidad.md",
     "Crypto/Bases/Propiedades/Herramienta.md",
     "Crypto/Task.md",
-    "Crypto/BlockChain Developer/BlockchainsTipos.md",
-    "Crypto/Bases/Blockchain.md"
+    "Crypto/BlockChain Developer/BlockchainsTipos.md"
   ]
 }
