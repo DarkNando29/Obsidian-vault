@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git/Basic/Branch.md",
+            "file": "Git/Terminal y lineas de comandos.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Basic/Branch.md",
+                "file": "Git/Terminal y lineas de comandos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,12 @@
   },
   "active": "c86c65fe7f84a533",
   "lastOpenFiles": [
+    "Git/Terminal y lineas de comandos.md",
     "Git/Basic/Branch.md",
     "Git/Basic/Cambios en archivos.md",
     "Git/Basic/Creacion del repo.md",
     "Git/Basic/Stages and unstage.md",
     "Git/Bases de git.md",
-    "Git/Terminal y lineas de comandos.md",
     "Git/Seguridad.md",
     "Habilidades blandas/Hablar en Publico.md",
     "Crypto/Bases/Block.md",
