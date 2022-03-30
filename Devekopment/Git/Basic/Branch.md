@@ -1,3 +1,5 @@
+[[Git Basic Base]]
+
 ## Que es?
 Es una copia de algun punto de la historia de master (normalmente) o de otra rama
 

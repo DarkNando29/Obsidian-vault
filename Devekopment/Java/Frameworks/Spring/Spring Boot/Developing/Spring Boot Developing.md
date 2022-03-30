@@ -1,0 +1,5 @@
+[[AutoConfiguration]]
+[[Configuration Classes]]
+[[Spring Beans and Dependency Injection]]
+[[Structure]]
+[[Using the @SpringBootApplication annotation]]

@@ -1,4 +1,4 @@
-[[Bases de git]]
+[[Git Basic Base]]
 
 #### Comandos de creacion del repositorio.
 git init: 

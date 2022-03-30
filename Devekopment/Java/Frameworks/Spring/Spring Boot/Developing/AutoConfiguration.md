@@ -1,3 +1,5 @@
+[[Spring Boot Developing]]
+
 #### Auto-configuration
 
 Spring Boot auto-configration attempsts to automatically configure your Soring application based on the jar dependencies that you have added. For example, if HSQLB is on your classpath, and you have not manually configured any databse connections beans, then Spring Boot auto-configures an in-memory database.

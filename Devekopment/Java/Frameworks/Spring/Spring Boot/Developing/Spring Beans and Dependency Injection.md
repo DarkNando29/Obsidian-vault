@@ -1,3 +1,5 @@
+[[Spring Boot Developing]]
+
 #### Spring Beans and Dependency Injection
 
 Your are free to use any of the standard Spring Framework techniques to define your beans and their injected dependencies. We generally recommend using constructor injection to wire up dependencies and @ComponentScan to find beans.

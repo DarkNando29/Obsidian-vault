@@ -1,4 +1,4 @@
-[[Bases de git]]
+[[Git Basic Base]]
 
 #### Vamos a trackear nuestros cambios
 1. git log "file":

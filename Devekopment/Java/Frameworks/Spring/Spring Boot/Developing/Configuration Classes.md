@@ -1,3 +1,5 @@
+[[Spring Boot Developing]]
+
 Spring Boot favors Java-based configuration. Although it is possible to use SpringAplication with XML sources, we generally recommend that your primary soruce be a single @Configuration class. Usually the class that defines the main method is a good candidate as the primary @Configuration.
 
 > Many Spring configuration examples have been published on the internet that use XML configuration. If possible, always try to use the equivalent Java-based configuration. Searching for Enable annotations can be good stating point.

@@ -7,11 +7,8 @@
         "id": "691908b583018235",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Git/Basic/Pull request.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Basic/Pull request.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +84,15 @@
   },
   "active": "691908b583018235",
   "lastOpenFiles": [
-    "Git/Basic/Pull request.md",
-    "Git/Basic/Creacion del repo.md",
-    "Git/Basic/Cambios en archivos.md",
-    "Patrones de diseno/Patrones creacionales/Abstract Factory.md",
-    "Patrones de diseno/Patrones de comportamiento/Visitor.md",
-    "Patrones de diseno/Patrones de comportamiento/Template Method.md",
-    "Patrones de diseno/Patrones de comportamiento/Strategy.md",
-    "Patrones de diseno/Patrones de comportamiento/State.md",
-    "Patrones de diseno/Patrones de comportamiento/Observer.md",
-    "Patrones de diseno/Patrones de comportamiento/Memento.md"
+    "Patrones de diseno/Patrones.md",
+    "Patrones de diseno/Patrones estructurales/Proxy.md",
+    "Patrones de diseno/Patrones estructurales/Flyweight.md",
+    "Patrones de diseno/Patrones estructurales/Facade.md",
+    "Patrones de diseno/Patrones estructurales/Decorator.md",
+    "Patrones de diseno/Patrones estructurales/Composite.md",
+    "Patrones de diseno/Patrones estructurales/Bridge.md",
+    "Patrones de diseno/Patrones estructurales/Adapter.md",
+    "Patrones de diseno/Patrones estructurales/Patrones Estructurales.md",
+    "Patrones de diseno/Patrones de comportamiento/Visitor.md"
   ]
 }

@@ -12,10 +12,16 @@ Manejo de las bases
 El concepto en si
 
 -   S – Single Responsibility Principle (SRP)
+	-   Una sola funcion
 -   O – Open/Closed Principle (OCP)
+	-   Las clases que usas deberían estar **abiertas para poder extenderse y cerradas para modificarse**
 -   L – Liskov Substitution Principle (LSP)
+	-    si en un programa utilizamos cierta clase, **deberíamos poder usar cualquiera de sus subclases** sin interferir en la funcionalidad del programa.
 -   I – Interface Segregation Principle (ISP)
+	-   Preferible contar con muchas interfaces que definan pocos métodos que tener una interface forzada a implementar muchos métodos a los que no dará uso
 -   D – Dependency Inversion Principle (DIP)
+   1.  Los módulos de alto nivel **no deberían depender de módulos de bajo nivel**. Ambos deberían depender de abstracciones.
+   2.  **Las abstracciones no deberían depender de los detalles**. Los detalles deberían depender de las abstracciones.
 
 Mockito
 Conceptos
@@ -79,6 +85,8 @@ Service
 ComponentScan
 RestController
 PostMapping
+
+request body
 
 Mapeo de del body
 

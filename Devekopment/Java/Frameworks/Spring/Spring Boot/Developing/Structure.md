@@ -1,3 +1,5 @@
+[[Spring Boot Developing]]
+
 Spring Boot does not require any specific code layout to work. However, there are some best practices that help.
 
 #### Using the "default" package.

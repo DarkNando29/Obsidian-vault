@@ -1,4 +1,4 @@
-[[Bases de git]]
+[[Git Basic Base]]
 
 #### Staged area:
 > Area en la que se agregan todos los cambios que sabemos y estamos seguros de compartir y agregar al proyecto.
