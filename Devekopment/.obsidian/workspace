@@ -4,12 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "691908b583018235",
+        "id": "0d5138e7962c8997",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "Patrones de diseno/Patrones creacionales/Singleton.md",
+            "mode": "preview"
+          }
+        },
+        "group": "57b6f037278a6cfa"
+      },
+      {
+        "id": "a914196f499306af",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Patrones de diseno/Patrones creacionales/Singleton.md",
+            "mode": "source"
+          }
+        },
+        "group": "57b6f037278a6cfa"
       }
     ],
     "direction": "vertical"
@@ -65,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Patrones de diseno/Patrones creacionales/Singleton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "691908b583018235",
+  "active": "a914196f499306af",
   "lastOpenFiles": [
-    "Patrones de diseno/Patrones.md",
-    "Patrones de diseno/Patrones estructurales/Proxy.md",
-    "Patrones de diseno/Patrones estructurales/Flyweight.md",
-    "Patrones de diseno/Patrones estructurales/Facade.md",
-    "Patrones de diseno/Patrones estructurales/Decorator.md",
-    "Patrones de diseno/Patrones estructurales/Composite.md",
-    "Patrones de diseno/Patrones estructurales/Bridge.md",
-    "Patrones de diseno/Patrones estructurales/Adapter.md",
-    "Patrones de diseno/Patrones estructurales/Patrones Estructurales.md",
-    "Patrones de diseno/Patrones de comportamiento/Visitor.md"
+    "Patrones de diseno/Patrones creacionales/Singleton.md",
+    "Patrones de diseno/Patrones creacionales/Prototype.md",
+    "Patrones de diseno/Patrones creacionales/Factory Method.md",
+    "Patrones de diseno/Patrones creacionales/Abstract Factory.md",
+    "Git/Bases de git.md",
+    "Patrones de diseno/Patrones creacionales/Untitled.md",
+    "Uni Courses.md",
+    "Patrones de diseno/Patrones creacionales/Builder.md",
+    "Patrones de diseno/Patrones creacionales/Patrones de diseno Creacionales.md",
+    "Time sheets/16-03-2022.md"
   ]
 }
