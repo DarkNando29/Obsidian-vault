@@ -1,5 +1,7 @@
 [[Patrones de diseno Creacionales]]
 
+## Factory Method
+
 **Factory Method** es un patrón de diseño creacional que proporciona una interfaz para crear objetos en una superclase, mientras permite a las subclases alterar el tipo de objetos que se crearán.
 
 ![[Pasted image 20220331145720.png]]
@@ -149,8 +151,9 @@ class Application is
 	Para conseguirlo, creamos una subclase `UIConBotonesRedondos` a partir de una clase base del framework y sobrescribimos su método `crearBotón`. Si bien este método devuelve objetos `Botón` en la clase base, haces que tu subclase devuelva objetos `BotónRedondo`. Ahora, utiliza la clase `UIConBotonesRedondos` en lugar de `FrameworkUI`. ¡Eso es todo!
 
 > A menudo experimentas esta necesidad cuando trabajas con objetos grandes y que consumen muchos recursos, como conexiones de bases de datos, sistemas de archivos y recursos de red.
-	Pensemos en lo que hay que hacer para reutilizar un objeto existente:
-	1.  Primero, debemos crear un almacenamiento para llevar un registro de todos los objetos creados.
+
+Pensemos en lo que hay que hacer para reutilizar un objeto existente:
+1.  Primero, debemos crear un almacenamiento para llevar un registro de todos los objetos creados.
 	2.  Cuando alguien necesite un objeto, el programa deberá buscar un objeto disponible dentro de ese agrupamiento.
 	3.  … y devolverlo al código cliente.
 	4.  Si no hay objetos disponibles, el programa deberá crear uno nuevo (y añadirlo al agrupamiento).
