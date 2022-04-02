@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Patrones de diseno/Patrones de comportamiento/Command.md",
+            "file": "Patrones de diseno/Patrones de comportamiento/Memento.md",
             "mode": "preview"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Patrones de diseno/Patrones de comportamiento/Command.md",
+            "file": "Patrones de diseno/Patrones de comportamiento/Memento.md",
             "mode": "source"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Patrones de diseno/Patrones de comportamiento/Command.md",
+                "file": "Patrones de diseno/Patrones de comportamiento/Memento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "2e212658c0c619c2",
   "lastOpenFiles": [
+    "Patrones de diseno/Patrones de comportamiento/Memento.md",
+    "Patrones de diseno/Patrones de comportamiento/Mediator.md",
+    "Patrones de diseno/Patrones de comportamiento/Iterator.md",
     "Patrones de diseno/Patrones de comportamiento/Command.md",
     "Patrones de diseno/Patrones de comportamiento/Chain of Responsability.md",
     "Patrones de diseno/Patrones creacionales/Prototype.md",
     "Patrones de diseno/Patrones creacionales/Singleton.md",
     "Patrones de diseno/Patrones creacionales/Patrones de diseno Creacionales.md",
     "Patrones de diseno/Patrones creacionales/Factory Method.md",
-    "Patrones de diseno/Patrones creacionales/Builder.md",
-    "Patrones de diseno/Patrones creacionales/Abstract Factory.md",
-    "Git/Bases de git.md",
-    "Patrones de diseno/Patrones creacionales/Untitled.md"
+    "Patrones de diseno/Patrones creacionales/Builder.md"
   ]
 }
