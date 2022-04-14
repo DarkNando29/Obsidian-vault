@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "d6e50f30dbaf0ea1",
+        "id": "da68bfe72ca182ac",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Patrones de diseno/Patrones de comportamiento/Memento.md",
+            "file": "Internet Fundamentals/API/Types.md",
             "mode": "preview"
           }
         },
-        "group": "8917e58349587cba"
+        "group": "2c364294a3dfe07c"
       },
       {
-        "id": "2e212658c0c619c2",
+        "id": "ae9ee25f2fe273ac",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Patrones de diseno/Patrones de comportamiento/Memento.md",
+            "file": "Internet Fundamentals/API/Types.md",
             "mode": "source"
           }
         },
-        "group": "8917e58349587cba"
+        "group": "2c364294a3dfe07c"
       }
     ],
     "direction": "vertical"
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 685.5
   },
   "right": {
     "id": "2b5528e1cb6b0fd8",
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Patrones de diseno/Patrones de comportamiento/Memento.md",
+                "file": "Internet Fundamentals/API/Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2e212658c0c619c2",
+  "active": "ae9ee25f2fe273ac",
   "lastOpenFiles": [
-    "Patrones de diseno/Patrones de comportamiento/Memento.md",
-    "Patrones de diseno/Patrones de comportamiento/Mediator.md",
-    "Patrones de diseno/Patrones de comportamiento/Iterator.md",
-    "Patrones de diseno/Patrones de comportamiento/Command.md",
-    "Patrones de diseno/Patrones de comportamiento/Chain of Responsability.md",
-    "Patrones de diseno/Patrones creacionales/Prototype.md",
-    "Patrones de diseno/Patrones creacionales/Singleton.md",
-    "Patrones de diseno/Patrones creacionales/Patrones de diseno Creacionales.md",
-    "Patrones de diseno/Patrones creacionales/Factory Method.md",
-    "Patrones de diseno/Patrones creacionales/Builder.md"
+    "Internet Fundamentals/API/Types.md",
+    "Internet Fundamentals/API/API.md",
+    "Internet Fundamentals/API/Documentation/WSDL.md",
+    "Libros/Computing Fundamentals/The computer.md",
+    "Internet Fundamentals/API/Documentation/Soap.md",
+    "Internet Fundamentals/API/Documentation/UDDI.md",
+    "Internet Fundamentals/API/Documentation/Rest.md",
+    "Java/Frameworks/Spring/Spring Boot/Developing/Inversion de control IOC.md",
+    "Java/Frameworks/Spring/Spring Boot/Developing/AutoConfiguration.md",
+    "Java/Frameworks/Spring/Spring Boot/Developing/Configuration Classes.md"
   ]
 }
