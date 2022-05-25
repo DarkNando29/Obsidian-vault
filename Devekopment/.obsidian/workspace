@@ -4,28 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "da68bfe72ca182ac",
+        "id": "9433aa50473809b4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Internet Fundamentals/API/Types.md",
-            "mode": "preview"
-          }
-        },
-        "group": "2c364294a3dfe07c"
-      },
-      {
-        "id": "ae9ee25f2fe273ac",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Internet Fundamentals/API/Types.md",
+            "file": "Edicion/Illustrator/Selection Content.md",
             "mode": "source"
           }
-        },
-        "group": "2c364294a3dfe07c"
+        }
       }
     ],
     "direction": "vertical"
@@ -65,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 685.5
+    "width": 424.5
   },
   "right": {
     "id": "2b5528e1cb6b0fd8",
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internet Fundamentals/API/Types.md",
+                "file": "Edicion/Illustrator/Selection Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ae9ee25f2fe273ac",
+  "active": "9433aa50473809b4",
   "lastOpenFiles": [
-    "Internet Fundamentals/API/Types.md",
-    "Internet Fundamentals/API/API.md",
-    "Internet Fundamentals/API/Documentation/WSDL.md",
-    "Libros/Computing Fundamentals/The computer.md",
-    "Internet Fundamentals/API/Documentation/Soap.md",
-    "Internet Fundamentals/API/Documentation/UDDI.md",
-    "Internet Fundamentals/API/Documentation/Rest.md",
-    "Java/Frameworks/Spring/Spring Boot/Developing/Inversion de control IOC.md",
-    "Java/Frameworks/Spring/Spring Boot/Developing/AutoConfiguration.md",
-    "Java/Frameworks/Spring/Spring Boot/Developing/Configuration Classes.md"
+    "Edicion/Illustrator/Selection Content.md",
+    "Edicion/Illustrator/Paths.md",
+    "Edicion/Illustrator/Isolation Mode.md",
+    "Edicion/Illustrator/Layers.md",
+    "Edicion/Illustrator/Fill and Strokes.md",
+    "Edicion/Illustrator/Bitmap vs Vector.md",
+    "Streams/En vivo 2.md",
+    "Streams/En vivo 1.md",
+    "Patrones de diseno/Patrones creacionales/Builder.md",
+    "Habilidades blandas/Hablar en Publico.md"
   ]
 }
